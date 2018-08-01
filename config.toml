@@ -1,0 +1,11 @@
+baseURL = "https://avantgardefuselage.github.io"
+languageCode = "en-us"
+title = "avantgardefuselage"
+theme = "sam"
+
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "avantgardefuselage"
+
+
