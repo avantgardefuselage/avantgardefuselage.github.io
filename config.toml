@@ -1,11 +1,65 @@
+# Site settings
 baseURL = "https://avantgardefuselage.github.io"
-languageCode = "en-us"
-title = "avantgardefuselage"
-theme = "sam"
+languageCode = "en-US"
+title = "Joshua Björkäng - DevOps Consultant"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "avantgardefuselage"
+# Copyright
+copyright = "&copy;2018 Joshua Björkäng"
 
+[params]
 
+  # Metadata for search engines and social sharing
+  author = "Joshua Björkäng"
+  description = "DevOps Consultant based in Gothenburg, Sweden."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/profile.jpg"
+      position = "center center"
+
+  # Links
+  #
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list1]
+      heading = "Social"
+
+      [[params.links.list1.link]]
+        text = "Twitter"
+        url = "https://twitter.com/jbjorkang"
+      #
+      # [[params.links.list1.link]]
+      #   text = "Linkedin"
+      #   url = ""
+
+      [[params.links.list1.link]]
+        text = "Github"
+        url = "https://github.com/avantgardefuselage"
+
+    # Links List #1
+    [[params.links]]
+      [params.links.list2]
+        heading = "Connect"
+
+        # [[params.links.list2.link]]
+        #   text = "Blog"
+        #   url = "#"
+
+        [[params.links.list2.link]]
+          text = "Email"
+          url = "mailto:j.bjorkang@pm.me"
