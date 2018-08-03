@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://avantgardefuselage.github.io"
+baseURL = "https://joshua.bjorkang.family" 
 languageCode = "en-US"
 title = "Joshua Björkäng - DevOps Consultant"
 theme = "hugo-split-theme"
