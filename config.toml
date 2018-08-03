@@ -56,9 +56,9 @@ copyright = "&copy;2018 Joshua Björkäng"
       [params.links.list2]
         heading = "Connect"
 
-        # [[params.links.list2.link]]
-        #   text = "Blog"
-        #   url = "#"
+         [[params.links.list2.link]]
+           text = "Blog"
+           url = "/blog"
 
         [[params.links.list2.link]]
           text = "Email"
