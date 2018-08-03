@@ -6,9 +6,10 @@ install:
 script:
   - ./hugo version
   - ./hugo
+  - echo "joshua.bjorkang.family" >> CNAME
 
 deploy:
-  - echo "joshua.bjorkang.family" >> CNAME
+
   provider: pages
   skip_cleanup: true
   local_dir: public
