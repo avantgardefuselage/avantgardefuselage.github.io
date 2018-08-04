@@ -6,7 +6,7 @@ install:
 script:
   - ./hugo version
   - ./hugo
-  - echo "joshua.bjorkang.family" >> CNAME
+
 
 deploy:
 
