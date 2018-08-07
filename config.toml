@@ -42,10 +42,10 @@ copyright = "&copy;2018 Joshua Björkäng"
       [[params.links.list1.link]]
         text = "Twitter"
         url = "https://twitter.com/jbjorkang"
-      #
-      # [[params.links.list1.link]]
-      #   text = "Linkedin"
-      #   url = ""
+      
+       [[params.links.list1.link]]
+         text = "Mastodon"
+         url = "https://mastodon.technology/@jbjorkang"
 
       [[params.links.list1.link]]
         text = "Github"
