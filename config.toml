@@ -55,6 +55,10 @@ copyright = "&copy;2018 Joshua Björkäng"
     [[params.links]]
       [params.links.list2]
         heading = "Connect"
+        
+        [[params.links.list2.link]]
+          text = "LinkedIn" 
+          url = "https://linkedin.com/in/gnakrojbauhsoj" 
 
          [[params.links.list2.link]]
            text = "Blog"
