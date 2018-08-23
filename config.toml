@@ -60,10 +60,6 @@ copyright = "&copy;2018 Joshua Björkäng"
           text = "LinkedIn" 
           url = "https://linkedin.com/in/gnakrojbauhsoj" 
 
-         [[params.links.list2.link]]
-           text = "Blog"
-           url = "/blog"
-
         [[params.links.list2.link]]
           text = "Email"
           url = "mailto:j.bjorkang@pm.me"
