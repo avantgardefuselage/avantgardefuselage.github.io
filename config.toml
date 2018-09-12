@@ -11,7 +11,8 @@ googleAnalytics = ""
 # Copyright
 copyright = "&copy;2018 Joshua Björkäng"
 
-[params]
+[params
+]
 
   # Metadata for search engines and social sharing
   author = "Joshua Björkäng"
