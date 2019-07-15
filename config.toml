@@ -9,13 +9,13 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Joshua Björkäng"
+copyright = "&copy;2019 Joshua Björkäng"
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Joshua Björkäng"
-  description = "DevOps Consultant based in Gothenburg, Sweden."
+  description = "Infrastructure & DevOps Consultant based in Gothenburg, Sweden."
   shareImage = "images/social.jpg"
   twitterHandle = "jbjorkang"
 
@@ -62,4 +62,4 @@ copyright = "&copy;2018 Joshua Björkäng"
 
         [[params.links.list2.link]]
           text = "Email"
-          url = "mailto:j.bjorkang@pm.me"
+          url = "mailto:joshua@bjorkang.family"
