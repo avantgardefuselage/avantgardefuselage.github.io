@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2019 Joshua Björkäng"
+copyright = "&copy;2020 Joshua Björkäng"
 
 [params]
 
