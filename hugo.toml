@@ -33,7 +33,7 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "JB"
 
     [languages.en.params]
       owner = "JB"
